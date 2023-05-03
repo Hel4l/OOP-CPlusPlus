@@ -1,0 +1,19 @@
+# ninja log v5
+21	330	7048273034602041	CMakeFiles/Challenge__3_.dir/Savings_Account.cpp.obj	526ad880bc7c45fc
+17	333	7048273034612051	CMakeFiles/Challenge__3_.dir/Checking_Account.cpp.obj	f018070d82753ab6
+0	334	7048273034642047	CMakeFiles/Challenge__3_.dir/Account.cpp.obj	263fa42ba34f05f5
+12	339	7048273034692048	CMakeFiles/Challenge__3_.dir/Trust_Account.cpp.obj	df4c1665558a7703
+8	424	7048273035537328	CMakeFiles/Challenge__3_.dir/Account_Util.cpp.obj	71845281fc602a0b
+5	464	7048273035952462	CMakeFiles/Challenge__3_.dir/main.cpp.obj	d106977843e782e
+465	588	7048273037165716	Challenge__3_.exe	781fb54938ef09
+2	431	7048273613755087	CMakeFiles/Challenge__3_.dir/main.cpp.obj	d106977843e782e
+432	539	7048273614817571	Challenge__3_.exe	781fb54938ef09
+2	299	7048274321716327	CMakeFiles/Challenge__3_.dir/Account_Util.cpp.obj	71845281fc602a0b
+299	398	7048274322676345	Challenge__3_.exe	781fb54938ef09
+3	230	7048274783785844	CMakeFiles/Challenge__3_.dir/Trust_Account.cpp.obj	df4c1665558a7703
+231	328	7048274784740995	Challenge__3_.exe	781fb54938ef09
+2	229	7048275785188013	CMakeFiles/Challenge__3_.dir/Trust_Account.cpp.obj	df4c1665558a7703
+229	331	7048275786181764	Challenge__3_.exe	781fb54938ef09
+7	248	7048281518469565	CMakeFiles/Challenge__3_.dir/Trust_Account.cpp.obj	df4c1665558a7703
+2	329	7048281519276914	CMakeFiles/Challenge__3_.dir/Account_Util.cpp.obj	71845281fc602a0b
+330	431	7048281520272264	Challenge__3_.exe	781fb54938ef09

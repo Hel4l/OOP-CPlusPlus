@@ -20,16 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="115d4321-64f1-4fac-92ec-9c837397cff4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Challenge [2].iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyString.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyString.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Challenge [1]/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Challenge [1]/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-    </list>
+    <list default="true" id="115d4321-64f1-4fac-92ec-9c837397cff4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682944170191</updated>
       <workItem from="1682944171577" duration="9415000" />
-      <workItem from="1683014870499" duration="3926000" />
+      <workItem from="1683014870499" duration="4521000" />
     </task>
     <servers />
   </component>
